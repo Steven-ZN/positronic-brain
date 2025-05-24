@@ -1,4 +1,4 @@
-# robot-three-laws
+
 
 This is an experimental and modeling-focused repository aiming to **translate Asimov's Three Laws of Robotics into executable logic** for modern large language models (LLMs) and autonomous agents.
 
