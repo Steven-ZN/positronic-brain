@@ -18,6 +18,10 @@ To implement and validate a functional, modular framework that allows LLMs or ag
 
 From science fiction to executable ethics — building a bridge between abstract moral directives and real-world AI behavior control.
 
+## Framework Overview
+
+The repository now includes a starter Python package, `positronic_brain`, with modules for actions, ethics evaluation, and a simple agent implementation. Unit tests demonstrate how an agent consults the evaluator before performing an action.
+
 ---
 
 **This is not just safety. This is moral architecture.**
